@@ -1,0 +1,6 @@
+BeautifulSoup4
+selenium
+matplotlib
+numpy
+datetime
+argparse
